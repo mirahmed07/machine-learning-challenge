@@ -22,7 +22,7 @@ This project uses the data they gathered to train four machine learning (ML) mod
 ## Model Comparison
 The RF model was the more accurate of the four by a small margin.
 
-![models_eval](Images/eval.png)
+![models_eval](Images/eval.PNG)
 
 ## Conclusions
 Evidently, given the relatively high accuracy of the RF model, I believe it to be a reasonable predictor of exoplanet candidacy.
