@@ -1,0 +1,5 @@
+,LR Accuracy
+Base Train Model,85.504%
+Base Test Model,86.213%
+Tuned Train Model,88.766%
+Tuned Test Model,89.817%

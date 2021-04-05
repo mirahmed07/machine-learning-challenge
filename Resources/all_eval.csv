@@ -1,0 +1,5 @@
+,RF Accuracy,LR Accuracy,KNN(21) Accuracy,SVM Accuracy
+Base Train Model,100.0%,85.504%,84.856%,84.551%
+Base Test Model,89.989%,86.213%,82.208%,84.153%
+Tuned Train Model,100.0%,88.766%,83.902%,87.583%
+Tuned Test Model,90.16%,89.817%,82.265%,87.357%

@@ -1,0 +1,5 @@
+,KNN(21) Accuracy
+Base Train Model,84.856%
+Base Test Model,82.208%
+Tuned Train Model,83.902%
+Tuned Test Model,82.265%

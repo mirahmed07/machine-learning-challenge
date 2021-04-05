@@ -1,0 +1,5 @@
+,SVM Accuracy
+Base Train Model,84.551%
+Base Test Model,84.153%
+Tuned Train Model,87.583%
+Tuned Test Model,87.357%
