@@ -11,7 +11,8 @@ This project uses the data they gathered to train four machine learning (ML) mod
 - Logistic Regression (LR)
 - Random Forest (RF)
 - K Nearest Neighbor (KNN)
-- Support vector Machine (SVM)
+- Support Vector Machine (SVM)
+- Deep Learning Model
 
 ### Model Design Approach
 - Build a base model using the original dataset and all its 40 features.
@@ -20,9 +21,10 @@ This project uses the data they gathered to train four machine learning (ML) mod
 - Build the final model using the tuned parameters.
 
 ## Model Comparison
+Deep Neural Network - Loss: 0.2539210319519043, Accuracy: 0.9073226451873779
 The RF model was the more accurate of the four by a small margin.
 
 ![models_eval](Images/eval.PNG)
 
 ## Conclusions
-Evidently, given the relatively high accuracy of the RF model, I believe it to be a reasonable predictor of exoplanet candidacy.
+Evidently, given the relatively high accuracy of the Random Forest Model and the Deep Learning Model, I believe them both to be reasonable predictor of exoplanet candidacy. However, a model leveraging deep learning techniques might prove superior.
