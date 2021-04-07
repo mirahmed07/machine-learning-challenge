@@ -22,9 +22,10 @@ This project uses the data they gathered to train four machine learning (ML) mod
 
 ## Model Comparison
 Deep Neural Network - Loss: 0.2539210319519043, Accuracy: 0.9073226451873779
+
 The RF model was the more accurate of the four by a small margin.
 
 ![models_eval](Images/eval.PNG)
 
 ## Conclusions
-Evidently, given the relatively high accuracy of the Random Forest Model and the Deep Learning Model, I believe them both to be reasonable predictor of exoplanet candidacy. However, a model leveraging deep learning techniques might prove superior.
+Evidently, given the relatively high accuracy of the Random Forest Model and the Deep Learning Model, I would consider them both to be reasonable predictor of exoplanet candidacy. However, a model leveraging deep learning techniques might prove superior.
